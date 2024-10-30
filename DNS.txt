@@ -1,0 +1,12 @@
+$  host -tTXT myconnector.ru
+myconnector.ru descriptive text "v=spf1 redirect=_spf.yandex.net"
+
+$  host -tMX myconnector.ru
+myconnector.ru mail is handled by 10 mx.yandex.net.
+
+CNAME Record	        Destination	Actions
+mail.myconnector.ru.	domain.mail.yandex.net.
+imap.myconnector.ru.	imap.yandex.ru.
+smtp.myconnector.ru.	smtp.yandex.ru.
+docs.myconnector.ru.	readthedocs.io.
+wiki.myconnector.ru.	readthedocs.io.
