@@ -10,3 +10,9 @@ imap.myconnector.ru.	imap.yandex.ru.
 smtp.myconnector.ru.	smtp.yandex.ru.
 docs.myconnector.ru.	readthedocs.io.
 wiki.myconnector.ru.	readthedocs.io.
+
+bugs.myconnector.ru
+get.myconnector.ru
+git.myconnector.ru
+www.myconnector.ru
+myconnector.ru - все 195.209.41.52
